@@ -1,0 +1,22 @@
+{
+  "name": "math-circle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyfro/math-cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyfro/math-cicd/issues"
+  },
+  "homepage": "https://github.com/tonyfro/math-cicd#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
